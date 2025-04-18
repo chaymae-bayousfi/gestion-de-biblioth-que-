@@ -1,0 +1,5 @@
+1|miserables|hugo|roman|1862|lacroix|100|2
+2|potter|rowling|aventure|1997|bloomsbury|170|3
+3|petit_prince|antoine|conte|1943|gallimard|43|2
+4|Alchimiste|paulo|fiction|1988|rocco|88|4
+5|hhh|hhh|hhh|111|hhh|5|2
